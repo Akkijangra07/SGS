@@ -1,0 +1,23 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+
+
+#pic9{
+    max-width: 100%;
+    border-radius: 5px;
+    border: 2px solid gray;
+    margin-bottom: 50px;
+}
+
+p{
+
+    margin-right: 50px;
+    margin-bottom: 20px;
+    font-family: sans-serif;
+    
+}

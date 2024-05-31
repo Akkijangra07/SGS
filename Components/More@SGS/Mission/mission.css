@@ -1,0 +1,43 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+.container{
+    width: 100%;
+
+}
+
+.navbar{
+    width: 100%;
+    background-color:rgb(33, 33, 94) ;
+    color:white;
+    text-align: center;
+    padding: 20px;
+    font-size: 1.5rem;
+}
+
+.marquee{
+    background-color: gray;
+    padding: 10px;
+}
+.overlay{
+    width: 100%;
+    height: 700px;
+    background-size: cover;
+    margin-top: 0;
+}
+.overlayShadow{
+    width: 100%;
+    height: 100%;
+}
+li{
+    width: 90%;
+    line-height: 30px;
+    color: black;
+}
+h3{
+    color: black;
+}

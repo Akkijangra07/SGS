@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    width: 100%;
+
+}
+
+.navbar{
+    width: 100%;
+    background-color:rgb(33, 33, 94) ;
+    color:white;
+    text-align: center;
+    padding: 20px;
+    font-size: 1.5rem;
+}
+.overlay{
+    width: 100%;
+    height: 700px;
+    background-size: cover;
+    margin-top: 0;
+}
+.overlayShadow{
+    width: 100%;
+    height: 100%;
+}
